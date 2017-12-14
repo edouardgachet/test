@@ -1,1 +1,3 @@
 alert('yo')
+alert('ya')
+
